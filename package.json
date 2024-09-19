@@ -1,0 +1,26 @@
+{
+  "name": "invoice",
+  "version": "1.0.0",
+  "description": "Hotel Manegment Invoice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Invoice",
+    "Convert",
+    "Table",
+    "formate",
+    "Intigrate",
+    "Chatbot",
+    "Database"
+  ],
+  "author": "Saurabh Kumar Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "git": "^0.1.5",
+    "init": "^0.1.2"
+  }
+}
